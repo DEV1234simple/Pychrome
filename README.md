@@ -1,5 +1,5 @@
-pip install pyqt5##
-pip install QtWebEngineWidgets##
+pip install pyqt5 , 
+pip install QtWebEngineWidgets
 ______________________________________________________________
 install this modules
 _______________________________________________________________
